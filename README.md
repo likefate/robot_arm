@@ -1,5 +1,7 @@
 # robot_arm
+https://zeta7.notion.site/zeta7/JessiArm-be431f54912b472fb7f8977e5499612d
 
+zeta님의 글을 참고했습니다.
 # JessiArm 설치
 
 ~~~shell
